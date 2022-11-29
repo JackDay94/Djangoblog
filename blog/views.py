@@ -66,7 +66,6 @@ class PostDetail(View):
         )
 
 
-
 class PostLike(View):
 
     def post(self, request, slug):
